@@ -1,0 +1,2 @@
+# Property-Insurance-Fraud-Detection
+1) To check the scam made by people for claiming health insurance money. 2) In today's world as the world is evolving toward online there is increasing in number of frauds. 3) So some analyzation is required to detect this kind of fraud, for such big data. 4)Analyzing all this information individually or manually is tremendously difficult. 5)As such, automation of the process is required.
